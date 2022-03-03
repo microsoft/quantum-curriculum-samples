@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResourcesEstimation", "ResourcesEstimation.csproj", "{2A94C5B0-6EF9-4C31-859B-F5C6821BA453}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B4EE6340-EA70-480C-81C9-03D6B4D84FBC}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A94C5B0-6EF9-4C31-859B-F5C6821BA453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A94C5B0-6EF9-4C31-859B-F5C6821BA453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A94C5B0-6EF9-4C31-859B-F5C6821BA453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A94C5B0-6EF9-4C31-859B-F5C6821BA453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49E1DC48-6C99-4CD6-BFAE-20AFE547251D}
+	EndGlobalSection
+EndGlobal
