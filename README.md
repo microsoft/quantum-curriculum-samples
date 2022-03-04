@@ -13,7 +13,7 @@ To request access to the complete set of curriculum materials, please fill [this
 
 ## Course Syllabus <a name="syllabus" />
 
-Here is the syllabus of the latest version of the curriculum, based on the course taught at Northeastern University Seattle in 2020.
+Here is the syllabus of the latest version of the curriculum:
 
 **Course Structure** 
 * One three-hour session per week (lecture + lab time combined); 14 weeks. 
