@@ -9,9 +9,9 @@ They are the best approximation of real quantum software engineering work, since
 Choose a problem/algorithm not covered in the class (and in the existing Q# code base), learn, implement, test and analyze.
 The deliverables of a final project include:
 
-* Written summary (30%) – 2-3 pages: problem statement, importance, technical results (math solution, implementation subtleties, test results, analysis).
+* Written summary (30%) â€“ 2-3 pages: problem statement, importance, technical results (math solution, implementation subtleties, test results, analysis).
 * Code implementation (50%).
-* Class presentation (20%) – teach your classmates the topic you’ve learned (in 20 minutes or less).
+* Class presentation (20%) â€“ teach your classmates the topic youâ€™ve learned (in 20 minutes or less).
 
 Approximate timeline:
 
@@ -73,4 +73,4 @@ The contribution included only the code/tutorial part of the projects; the final
   and to experiment with classical language interoperability supported by Q# (in this case Python interop).
 
 
-> Note that most of the katas has been updated compared to the original project, often by the maintainer or by other contributors rather by the original authors. You can see the [pull requests that created each kata](https://github.com/Microsoft/QuantumKatas/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A2019-03-19..2019-03-27) for the original versions that went into the projects.
+> Note that most of the katas have been updated compared to the original project, often by the maintainer or by other contributors rather by the original authors. You can see the [pull requests that created each kata](https://github.com/Microsoft/QuantumKatas/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A2019-03-19..2019-03-27) for the original versions that went into the projects.
