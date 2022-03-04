@@ -106,7 +106,7 @@ This preview contains examples of the materials included in the curriculum.
 * [Automatically graded programming assignments focused on solving quantum computing problems of varying complexity](./ProgrammingAssignmentSamples/AutogradedProblems).
 * [Programming assignments focused on debugging quantum programs](./ProgrammingAssignmentSamples/DebuggingQuantumCode).
 * [Programming assignments focused on resources estimation of quantum programs](./ProgrammingAssignmentSamples/ResourcesEstimation).
-* Ideas of final projects and examples of final projects done by our past students.
+* [Ideas of final projects and examples of final projects done by our past students](./FinalProjects).
 
 
 ## Use Azure Quantum in your course <a name="aq-credits" />
