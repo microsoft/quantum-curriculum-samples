@@ -2,7 +2,7 @@
 
 This is a preview of a set of curriculum materials for an "Introduction to Quantum Computing and Quantum Programming" course that uses Q# and Microsoft Quantum Development Kit for programming assignments.
 
-To request access to the complete set of curriculum materials, please fill [this form]().
+To request access to the complete set of curriculum materials, please fill [this form](https://aka.ms/AQ/Curriculum/RequestAccess).
 
 ## Table of contents
 
