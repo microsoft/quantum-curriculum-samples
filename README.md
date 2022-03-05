@@ -1,6 +1,6 @@
 # Introduction
 
-This is a preview of the Azure Quantum Curriculum: "Introduction to Quantum Computing and Quantum Programming" using Q# and Microsoft Quantum Development Kit for programming assignments.
+This is a preview of the curriculum to learn quantum computing with Azure Quantum.
 
 To request access to the complete set of curriculum materials, please fill [this form](https://aka.ms/AQ/Curriculum/RequestAccess).
 
