@@ -12,11 +12,12 @@ In this task you will explore the Deutsch-Jozsa algorithm and learn to run resou
 You do not need to submit the code you write; you submit only the file with the required output.
 
 Take the file `DeutschJozsaCode.qs` that contains the implementation of the Deutsch-Jozsa algorithm for an N-bit function f(x) = "1 if x has odd number of 1s, and 0 otherwise".
-Use resources estimator provided with Q# (https://docs.microsoft.com/quantum/machines/resources-estimator) 
+Use the [resources estimator provided in the QDK](https://docs.microsoft.com/quantum/machines/resources-estimator) 
 to get the width of the circuit (the maximal number of qubits allocated at any time)
 and the numbers of gates of different types that are required to run this program.
 
 Fill the following table (in tab-separated format):
+```
 N	Width	CNOT	Clifford
 1
 2
@@ -24,4 +25,4 @@ N	Width	CNOT	Clifford
 4
 5
 6
-
+```
