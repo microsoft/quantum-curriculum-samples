@@ -5,7 +5,7 @@
 // Output: 0 if the qubits were in the |0...0⟩ state,
 //         1 if the qubits were in the W state.
 operation Task2(qs : Qubit[]) : Int {
-    // Write your solution here
+    // Write your solution here.
     // ...
     -1
 }

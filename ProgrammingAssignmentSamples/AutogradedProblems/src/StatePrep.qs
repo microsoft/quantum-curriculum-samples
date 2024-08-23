@@ -3,6 +3,6 @@
 // Goal: prepare the following state on these qubits: 1/2 (|00⟩ + i|01⟩ - |10⟩ - i|11⟩).
 //       The states of the qubits are given in order |qs[0], qs[1]⟩.
 operation Task1(qs : Qubit[]) : Unit {
-    // Write your solution here
+    // Write your solution here.
     // ...
 }
